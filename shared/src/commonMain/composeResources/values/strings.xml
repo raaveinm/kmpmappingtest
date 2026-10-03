@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_title">Keymap Playground</string>
+    <string name="app_subtitle">Press any key combination. Matching shortcuts trigger an action; rebind them on the left.</string>
+
+    <string name="bindings_title">Shortcuts</string>
+    <string name="caught_title">Caught keys</string>
+    <string name="caught_empty">Nothing yet — press some keys.</string>
+
+    <string name="reset_all">Reset all</string>
+    <string name="rebind">Rebind</string>
+    <string name="cancel">Cancel</string>
+    <string name="clear">Clear</string>
+    <string name="unassigned">Unassigned</string>
+    <string name="no_action">No action assigned</string>
+    <string name="action_arrow">→ %1$s</string>
+    <string name="caught_count">×%1$d</string>
+    <string name="triggered_count">Triggered %1$d×</string>
+
+    <string name="status_hint">Press any key combination.</string>
+    <string name="status_recording">Press the new shortcut for “%1$s”… (Esc to cancel)</string>
+    <string name="status_rebound">“%1$s” is now %2$s</string>
+    <string name="status_rebound_displaced">“%1$s” is now %2$s (taken away from “%3$s”)</string>
+    <string name="status_cleared">Cleared the shortcut for “%1$s”</string>
+    <string name="status_cancelled">Rebinding cancelled</string>
+    <string name="status_reset">All shortcuts restored to defaults</string>
+
+    <string name="action_new_file_title">New file</string>
+    <string name="action_new_file_desc">Create an empty document</string>
+    <string name="action_open_file_title">Open file</string>
+    <string name="action_open_file_desc">Pick a document from disk</string>
+    <string name="action_save_title">Save</string>
+    <string name="action_save_desc">Write the current document</string>
+    <string name="action_save_all_title">Save all</string>
+    <string name="action_save_all_desc">Write every open document</string>
+    <string name="action_undo_title">Undo</string>
+    <string name="action_undo_desc">Revert the last change</string>
+    <string name="action_redo_title">Redo</string>
+    <string name="action_redo_desc">Re-apply the reverted change</string>
+    <string name="action_find_title">Find</string>
+    <string name="action_find_desc">Search in the current document</string>
+    <string name="action_command_palette_title">Command palette</string>
+    <string name="action_command_palette_desc">Search for any command</string>
+    <string name="action_toggle_theme_title">Toggle theme</string>
+    <string name="action_toggle_theme_desc">Switch between light and dark (really works)</string>
+    <string name="action_help_title">Help</string>
+    <string name="action_help_desc">Open the help screen</string>
+</resources>

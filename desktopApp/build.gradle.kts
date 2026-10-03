@@ -17,11 +17,11 @@ dependencies {
 
 compose.desktop {
     application {
-        mainClass = "com.example.keymappertest.MainKt"
+        mainClass = "com.raaveinm.keymaptest.MainKt"
 
         nativeDistributions {
             targetFormats(TargetFormat.Dmg, TargetFormat.Msi, TargetFormat.Deb)
-            packageName = "com.example.keymappertest"
+            packageName = "com.raaveinm.keymaptest"
             packageVersion = "1.0.0"
         }
     }

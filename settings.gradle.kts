@@ -1,4 +1,4 @@
-rootProject.name = "KeyMapperTest"
+rootProject.name = "Keymaptest"
 
 pluginManagement {
     repositories {
